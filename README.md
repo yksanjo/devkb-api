@@ -1,5 +1,12 @@
 # devkb-api
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/devkb-api/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/devkb-api/actions)
+![License](https://img.shields.io/github/license/yksanjo/devkb-api)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/devkb-api)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/devkb-api)
+
 ## Detailed Description
 
 devkb-api is maintained as an industry-grade software project with production-ready engineering practices.  
